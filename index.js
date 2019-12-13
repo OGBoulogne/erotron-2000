@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const Erotron = new Discord.Client()
 const commandPrefix = '>'
 
-Erotron.login('NjU0ODA1NTUyMjM2NTkzMTYy.XfK5Nw.wriHtpJu19qSrSzfl4qUAsuBPW4')
+Erotron.login('')
 
 const name = [
     "christelle", "joséphine", "stéphanie", 
